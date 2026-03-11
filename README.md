@@ -1,4 +1,4 @@
-# AWS re/Start – My 12-Week Cloud Learning Journey ☁️
+# AWS re/Start – My 12-Week Cloud Learning Journey 
 
 ## Overview
 
